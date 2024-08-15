@@ -1,0 +1,32 @@
+.Central{
+    background-color: #f3ecec;
+    width: 80vw;
+    height:100%;
+    
+
+
+&__img{
+    width: 38vw;
+    border-radius: 10px;
+    height: 40vh;
+    margin-left: 22%;
+}
+}
+
+.Programas{
+    margin-left: 7rem;
+    margin-top: 5rem;
+}
+
+
+
+.CardBody__titulo{
+    font-size: 1rem;
+}
+
+/*Registro*/
+.LinkLogin{
+    color: white;
+    text-decoration: none;
+    font-size: 0.9rem;
+}

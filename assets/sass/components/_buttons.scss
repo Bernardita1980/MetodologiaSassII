@@ -1,0 +1,17 @@
+@import'../abstracts/variables';
+
+.button_login{
+    background-color:$color1;
+    border-radius: 5px;
+    color: $color2;
+    height: 8vh;
+
+}
+
+.button_login2{
+    font-size: 0.9rem;
+    border-radius: 5px;
+    height: 8vh;
+    background-color:$color2;
+    
+}

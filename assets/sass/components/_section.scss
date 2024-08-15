@@ -1,0 +1,35 @@
+@import'../abstracts/variables';
+.Subscribete{
+    
+    background-color:$color1;
+    border-radius: 5px;
+    width: 33vw;
+    height: auto;
+    
+
+
+
+    &__texto{
+        font-size: 1rem;
+        color: $color2;
+        padding-top: 2px;
+    }
+    
+    &__input{
+        width: 16vw;
+        align-items: center;
+        display: inline;
+        height: 5vh;
+        
+    }
+    
+    &__button{
+        
+        align-items: center;
+        display: inline;
+        border-radius: 5px;
+        margin-left: 10px;
+        margin-bottom: 20px;
+    }
+
+}

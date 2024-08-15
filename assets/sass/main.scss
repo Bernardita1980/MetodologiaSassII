@@ -1,0 +1,25 @@
+/* abstracts*/
+@import'abstracts/variables';
+
+
+/*Base*/
+
+@import 'base/tamañoLogo';
+
+
+/*components*/
+@import 'components/buttons';
+@import 'components/section';
+
+
+/*Layout*/
+@import 'layout/navbar';
+@import 'layout/footer';
+
+/* Pages*/
+@import 'pages/pos';
+
+
+/*themes*/
+@import 'themes/lineasDivisoras';
+

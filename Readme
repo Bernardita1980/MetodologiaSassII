@@ -1,0 +1,7 @@
+Proyecto desarrollado sin internet.
+se bajo bootstrap con:
+npm i bootstrap
+
+recordar siempre dar ruta completa de las variables exportadas 
+@import'../abstracts/variables';
+
